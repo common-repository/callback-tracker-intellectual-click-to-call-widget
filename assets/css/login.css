@@ -1,0 +1,28 @@
+header {
+    background: #1495de;
+  	color: #fff;
+	    padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+	
+}
+
+h4 { display: inline; }
+ 
+
+.switch-but {
+  line-height: 18px;
+  color: rgb(77, 77, 77);
+  float: right;
+}
+.cb-register-lnk {
+    color: #fff;
+}
+.logo {
+    padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+    width: 250px;
+}
